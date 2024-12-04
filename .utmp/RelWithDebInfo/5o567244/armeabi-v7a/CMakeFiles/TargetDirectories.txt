@@ -1,0 +1,5 @@
+D:/111 BroadApps/App1049/.utmp/RelWithDebInfo/5o567244/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/111 BroadApps/App1049/.utmp/RelWithDebInfo/5o567244/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/111 BroadApps/App1049/.utmp/RelWithDebInfo/5o567244/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/111 BroadApps/App1049/.utmp/RelWithDebInfo/5o567244/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/111 BroadApps/App1049/.utmp/RelWithDebInfo/5o567244/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
